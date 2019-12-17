@@ -3,7 +3,7 @@ type: update
 version: 1.5
 id: glassfish-cluster-addon
 name: GlassFish Cluster
-logo: https://github.com/annajel/glassfish/raw/master/glassfish-cluster/img/glassfish-logo.png
+logo: https://github.com/annajel/glassfish-cluster/raw/master/glassfish-cluster/img/glassfish-logo.png
 description: Transforms standalone nodes to cluster
 
 globals:
