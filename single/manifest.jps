@@ -14,7 +14,7 @@
                 "nodes": {
                     "count": 1,
                     "cloudlets": 16,
-                    "nodeType": "glassfish"
+                    "nodeType": "ash-glassfish"
                 }
             }
         }
