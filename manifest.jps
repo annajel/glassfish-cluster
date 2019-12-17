@@ -14,7 +14,7 @@ nodes:
   nodeGroup: cp
   displayName: Worker
   count: 2
-  nodeType: glassfish
+  nodeType: ash-glassfish
   cluster: true
 onInstall:
 - addAutoScalingTriggers
