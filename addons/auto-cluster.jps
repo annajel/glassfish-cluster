@@ -5,7 +5,7 @@ id: glassfish-cluster-addon
 name: GlassFish Auto-Cluster
 logo: https://github.com/annajel/glassfish/raw/master/glassfish-cluster/img/glassfish-logo.png
 description: 'Auto-clustering: transforming standalone nodes to cluster'
-baseUrl: https://raw.githubusercontent.com/annajel/glassfish/master/addons
+baseUrl: https://raw.githubusercontent.com/annajel/glassfish-cluster/master/addons
 
 onInstall:
   script: |
