@@ -148,7 +148,7 @@ actions:
       startService: false
       nodeGroupData:
         validation:
-            maxCount: 1
+            maxCount: 2
             scalingMode: STATEFUL
         isClusterSupport: false
         isDeploySupport: false
